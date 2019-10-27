@@ -1,0 +1,12 @@
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
+A:\Mohawk\Sem3\.NET\Lab1\Lab1\bin\Debug\netcoreapp2.1\employees.csv
